@@ -11,16 +11,17 @@
 ---
 
 ## 💫 About Me
+
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="55%" valign="top">
       <p>👋 <b>Hi there!</b> I'm a <b>B.Tech IT</b> student at Bannari Amman Institute of Technology.</p>
       <p>🚀 I specialize in building <b>Scalable Web Architectures</b> and optimizing <b>Data Structures</b>.</p>
       <p>💡 I love bridging the gap between <b>Design</b> and <b>Back-end Logic</b>.</p>
-      <p>📫 How to reach me: <b>janithkishore@gmail.com</b></p>
+      <p>📫 Reach me at: <b>janithkishore@gmail.com</b></p>
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janithkishore&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+    <td width="45%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janithkishore&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -29,19 +30,19 @@
 
 ## 🛠 My Digital Toolbox
 
-### 💻 Programming & Core
+### 💻 Programming & Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,c,bash" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,c,js,html,css,tailwind,bootstrap" />
 </p>
 
-### 🌐 Web & Backend
+### 🌐 Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite,mongodb" />
 </p>
 
-### 🗄 Databases & Tools
+### 🔧 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,postman,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,bash" />
 </p>
 
 ---
@@ -50,27 +51,23 @@
 
 <table width="100%">
   <tr>
-    <td width="30%" align="center">
-      <img src="https://img.icons8.com/fluency/150/000000/dashboard-layout.png" alt="Project Icon" />
+    <td width="30%" align="center" valign="middle">
+      <img src="https://img.icons8.com/fluency/120/000000/dashboard-layout.png" alt="Project Icon" />
       <br />
       <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
     </td>
-    <td width="70%">
+    <td width="70%" valign="top">
       <h3>📊 Mentor-Student Monitoring System</h3>
-      <p>A comprehensive <b>full-stack solution</b> designed to bridge the communication gap between mentors and students while automating academic oversight.</p>
-      
-      <h4>⚡ Key Highlights</h4>
+      <p>A full-stack solution to bridge communication between mentors and students while automating academic oversight.</p>
       <ul>
-        <li>🛡️ <b>Security:</b> Robust JWT-based role authentication for Admin, Mentor, and Student.</li>
-        <li>📈 <b>Insights:</b> Integrated <b>Chart.js</b> for real-time visualization of student progress.</li>
-        <li>⚙️ <b>Efficiency:</b> Reduced manual data processing by 70% for over 500+ student records.</li>
+        <li>🛡️ <b>Security:</b> JWT-based role authentication (Admin/Mentor/Student).</li>
+        <li>📈 <b>Insights:</b> Real-time visualization via <b>Chart.js</b>.</li>
+        <li>⚙️ <b>Efficiency:</b> 70% reduction in manual data processing for 500+ records.</li>
       </ul>
-
-      <h4>🛠 Built With</h4>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-404d59?style=flat&logo=express&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -78,28 +75,27 @@
 
 ---
 
-## 📊 Performance Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janithkishore&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janithkishore&theme=tokyonight&border_radius=10" width="48%" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Janithkishore/Janithkishore/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Janithkishore/Janithkishore/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Janithkishore/Janithkishore/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Janithkishore/Janithkishore/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
 
 ---
 
-## 🧠 Coding Journey
+## 📊 Stats & Journey
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janithkishore&theme=tokyonight" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Janithkishore&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janithkishore&theme=tokyonight&border_radius=10" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janithkishore&theme=tokyonight" width="100%" />
 </p>
 
 <p align="right"><i>Last updated: March 2026</i> 🚀</p>
