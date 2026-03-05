@@ -1,62 +1,77 @@
-<h1 align="center">Hi 👋, I'm Janith Kishore</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Full+Stack+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Janith%20Kishore&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/janith-kishore"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:janithkishore@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/janithkishore"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://leetcode.com/janithkishore"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="mailto:janithkishore@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-I am a **B.Tech Information Technology** student at **Bannari Amman Institute of Technology**, dedicated to building scalable web applications and mastering the art of efficient coding.
-
-- 🔭 **Current Focus:** Crafting robust backend systems with **Node.js**.
-- 🌱 **Learning Path:** Deep diving into **Advanced DSA** and **System Design**.
-- ⚡ **Fun Fact:** I believe every complex problem can be solved with a well-structured flowchart and a cup of coffee.
-
----
-
-### 🛠 Tech Stack
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59?style=flat&logo=express&logoColor=%2361DAFB) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) |
+## 💫 About Me
+<table align="center">
+  <tr>
+    <td width="50%">
+      <p>👋 <b>Hi there!</b> I'm a <b>B.Tech IT</b> student at Bannari Amman Institute of Technology.</p>
+      <p>🚀 I specialize in building <b>Scalable Web Architectures</b> and optimizing <b>Data Structures</b>.</p>
+      <p>💡 I love bridging the gap between <b>Design</b> and <b>Back-end Logic</b>.</p>
+      <p>📫 How to reach me: <b>janithkishore@gmail.com</b></p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janithkishore&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Featured Project
+## 🛠 My Digital Toolbox
 
-> #### **Mentorship Feedback & Academic Monitoring System**
-> *A full-stack solution to bridge the gap between mentors and students.*
-> 
-> - **Backend:** Node.js & Express.js
-> - **Database:** SQLite for lightweight, efficient storage
-> - **Visuals:** Chart.js for real-time performance analytics
-> - **Highlights:** Implemented role-based access control (RBAC) and automated feedback loops.
+### 💻 Programming & Core
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,cpp,python,c,bash" /></a>
+</p>
+
+### 🌐 Web & Backend
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,bootstrap" /></a>
+</p>
+
+### 🗄 Databases & Tools
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,postman,vscode" /></a>
+</p>
 
 ---
 
-### 📈 Activity & Stats
+## 📂 Featured Project: **Mentor-Student Monitoring System**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Janithkishore&repo=Mentorship-Feedback-System&theme=tokyonight" alt="Project Card" />
+</p>
+
+> **Key Impact:** Automated academic tracking for 500+ students, reducing manual data entry by 70%.
+> - 🛡️ **Security:** Implemented JWT-based role authentication.
+> - 📊 **Visualization:** Integrated dynamic Chart.js dashboards for real-time progress tracking.
+
+---
+
+## 📊 Performance Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Janithkishore&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janithkishore&theme=tokyonight&border_radius=10" width="48%" />
+</p>
+
+---
+
+## 🧠 Coding Journey
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janithkishore&theme=tokyonight" width="100%" />
+</p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Janithkishore&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janithkishore&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Janithkishore/Janithkishore/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janithkishore&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
-</p>
+<p align="right">(<i>Click the snake! Just kidding, it's a contribution map.</i> 🐍)</p>
