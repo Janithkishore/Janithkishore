@@ -99,10 +99,10 @@
 ## 🧠 Coding Journey
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Janithkishore&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Janithkishore&theme=tokyonight" width="80%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Janithkishore&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Janithkishore&theme=tokyonight" width="80%" />
 </p>
 
 <p align="right"><i>Last updated: March 2026</i> 🚀</p>
