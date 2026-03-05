@@ -62,7 +62,7 @@ A **full-stack web application** for monitoring mentorship feedback and student 
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janith-kishore)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janith-kishore-82918828b/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/Janithkishore)
 
