@@ -95,7 +95,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janithkishore&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janithkishore&theme=tokyonight" width="90%" />
 </p>
 
 <p align="right"><i>Last updated: March 2026</i> 🚀</p>
