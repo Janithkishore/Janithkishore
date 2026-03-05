@@ -88,14 +88,16 @@
 ---
 
 ## 📊 Stats & Journey
+---
+
+## 🧠 Coding Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janithkishore&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="48%" />
-  <img src="  https://github-readme-streak-stats.herokuapp.com/?  user=Janithkishore&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Janithkishore&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Janithkishore&theme=tokyonight" width="48%" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janithkishore&theme=tokyonight" width="110%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Janithkishore&theme=tokyonight" width="98%" />
 </p>
 
 <p align="right"><i>Last updated: March 2026</i> 🚀</p>
