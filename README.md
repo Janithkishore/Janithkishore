@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/janith-kishore-82918828b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/janith-kishore"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/janithkishore"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
   <a href="mailto:janithkishore@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -75,6 +75,15 @@
 
 ---
 
+## 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Janithkishore&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Janithkishore&theme=tokyonight&border_radius=10" width="48%" />
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -87,17 +96,13 @@
 
 ---
 
-## 📊 Stats & Journey
----
-
 ## 🧠 Coding Journey
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Janithkishore&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Janithkishore&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Janithkishore&theme=tokyonight" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Janithkishore&theme=tokyonight" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Janithkishore&theme=tokyonight" width="100%" />
 </p>
 
 <p align="right"><i>Last updated: March 2026</i> 🚀</p>
