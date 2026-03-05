@@ -1,6 +1,6 @@
 # Hi 👋 I'm Janith Kishore
 
-🎓 B.Tech Information Technology Student  
+🎓 B.E Information Technology Student  
 🏫 Bannari Amman Institute of Technology  
 💻 Aspiring Software Developer  
 
@@ -25,7 +25,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express)
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
@@ -35,19 +34,21 @@
 ## 📌 Featured Project
 
 ### Mentorship Feedback & Academic Monitoring System
-Full-stack web application for monitoring mentorship feedback and student performance.
 
-Tech Stack:
+A **full-stack web application** for monitoring mentorship feedback and student academic performance.
+
+**Tech Stack**
 - Node.js
 - Express.js
 - SQLite
 - Chart.js
 
-Features:
+**Features**
 - Role-based authentication
 - Student feedback system
 - Mentor analytics
 - Admin dashboard
+- Student performance monitoring
 
 ---
 
@@ -61,6 +62,12 @@ Features:
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://linkedin.com/in/janith-kishore  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janith-kishore)
 
-Email: janithkishore@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/Janithkishore)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janithkishore@gmail.com)
+
+---
+
+⭐ From [Janithkishore](https://github.com/Janithkishore)
