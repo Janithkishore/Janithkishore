@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Janith Kishore</h1>
-<h3 align="center">Aspiring Software Developer | B.E Information Technology</h3>
+<h3 align="center">Aspiring Software Developer | B.Tech Information Technology</h3>
 
 <p align="center">
 🎓 Bannari Amman Institute of Technology <br>
-💻 Passionate about Full Stack Development
+💻 Passionate Software Developer
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 🔭 Currently building **Web Applications using Node.js**
 - 🌱 Learning **Data Structures & Algorithms**
 - 💡 Interested in **Full Stack Development**
-- 🎯 Goal: Become a **Software Engineer**
+
 
 ---
 
@@ -77,9 +77,11 @@ A **full-stack web application** for monitoring mentorship feedback and student 
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+
 <a href="https://github.com/Janithkishore">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
 
 <a href="https://leetcode.com/janithkishore">
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
