@@ -46,39 +46,14 @@
 
 ---
 
-## 📂 Featured Project
-
-<table width="100%">
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://img.icons8.com/fluency/150/000000/dashboard-layout.png" alt="Project Icon" />
-      <br />
-      <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
-    </td>
-    <td width="70%">
-      <h3>📊 Mentor-Student Monitoring System</h3>
-      <p>A comprehensive <b>full-stack solution</b> designed to bridge the communication gap between mentors and students while automating academic oversight.</p>
-      
-      <h4>⚡ Key Highlights</h4>
-      <ul>
-        <li>🛡️ <b>Security:</b> Robust JWT-based role authentication for Admin, Mentor, and Student.</li>
-        <li>📈 <b>Insights:</b> Integrated <b>Chart.js</b> for real-time visualization of student progress.</li>
-        <li>⚙️ <b>Efficiency:</b> Reduced manual data processing by 70% for over 500+ student records.</li>
-      </ul>
-
-      <h4>🛠 Built With</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
+## 📂 Featured Project: **Mentor-Student Monitoring System**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Janithkishore&repo=Mentorship-Feedback-System&theme=tokyonight&border_radius=10" alt="Repo Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Janithkishore&repo=Mentorship-Feedback-System&theme=tokyonight" alt="Project Card" />
 </p>
+
+> **Key Impact:** Automated academic tracking for 500+ students, reducing manual data entry by 70%.
+> - 🛡️ **Security:** Implemented JWT-based role authentication.
+> - 📊 **Visualization:** Integrated dynamic Chart.js dashboards for real-time progress tracking.
 
 ---
 
