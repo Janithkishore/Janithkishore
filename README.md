@@ -1,6 +1,6 @@
 # Hi 👋 I'm Janith Kishore
 
-🎓 B.E Information Technology Student  
+🎓 B.Tech Information Technology Student  
 🏫 Bannari Amman Institute of Technology  
 💻 Aspiring Software Developer  
 
